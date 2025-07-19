@@ -1,0 +1,9 @@
+[theme]
+# Forzar tema light siempre
+base = "light"
+
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
